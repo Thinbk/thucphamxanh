@@ -1,0 +1,15 @@
+.header{
+	background: #046634
+}
+
+.main-menu{
+	background: none;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	margin-top: 70px;
+}
+
+.main-menu .navbar-nav li a{
+	color: #fff
+}

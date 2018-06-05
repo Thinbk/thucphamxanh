@@ -1,0 +1,22 @@
+.header{
+	background: #046634
+}
+
+.main-menu{
+	background: none;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+.main-menu a.navbar-brand{
+	height: auto
+}
+.main-menu a.navbar-brand img{
+	width: 160px
+}
+.main-menu .navbar-nav{
+	margin-top: 70px
+}
+.main-menu .navbar-nav li a{
+	color: red;
+}
